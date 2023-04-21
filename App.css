@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(186, 173, 235);
+}
+#boxshadow{
+  border: 3px solid rgb(192, 242, 255);
+  box-shadow: 5px 6px rgba(28, 17, 8, 0.908);
+  border-radius: 50mm;
+  padding: 90px;
+
+}
+#a{
+  padding-left: 600px;
+}
+#b{
+  padding-left: 35cm;
+}
+
+
+
